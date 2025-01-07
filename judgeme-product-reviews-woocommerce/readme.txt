@@ -2,7 +2,7 @@
 Contributors: judgeme
 Tags: woocommerce, woocommerce product reviews, woocommerce reviews, judge.me, judge.me reviews, answers, reminders, rich snippets, review snippets, SEO
 Requires at least: 3.5.1
-Tested up to: 6.3
+Tested up to: 6.6
 Stable tag: trunk
 License: GPLv2 or later.
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -109,6 +109,9 @@ From our admin page, please go to Judge.me’s settings page > “Review Request
 5. SEO rich snippets in search results and Google shopping
 
 == Changelog ==
+
+= 1.3.25 =
+* Bug Fix: Fix Star Ratings not displaying and remove Array Text display on top left
 
 = 1.3.24 =
 * Updated design for onboarding dashboard page

@@ -378,6 +378,6 @@ class JGM_Widget {
 			}
 		}
 
-		return $html_miracle;
+		return is_array($html_miracle) ? $html_miracle['html_miracle'] : $html_miracle;
 	}
 }
