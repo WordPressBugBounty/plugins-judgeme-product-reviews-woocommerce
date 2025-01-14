@@ -110,6 +110,9 @@ From our admin page, please go to Judge.me’s settings page > “Review Request
 
 == Changelog ==
 
+= 1.3.26 =
+* Update plugin to use new domains
+
 = 1.3.25 =
 * Bug Fix: Fix Star Ratings not displaying and remove Array Text display on top left
 

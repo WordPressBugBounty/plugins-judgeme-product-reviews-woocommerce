@@ -317,7 +317,7 @@ if ( ! empty( $token ) ):
                 <i class="fa fa-solid fa-chevron-down home-page__faq-icon"></i>
                 <div class="home-page__faq-info">
                   <div class="home-page__faq-title">
-                    I cannot access the Judge.me dashboard (judge.me/admin). How can I access it?
+                    I cannot access the Judge.me dashboard (admin.judge.me/admin). How can I access it?
                   </div>
                   <div class="home-page__faq-answer">
                     If you can access the Judge.me tab in your WooCommerce admin panel but are receiving an <b>"Oops Login Issue"</b> error message when clicking on the Get Started button to access Judge.me settings, it probably means that:<br><br>
