@@ -178,7 +178,7 @@ if ( ! empty( $token ) ):
                     <li>Effortlessly upload and match your review data with our smart import wizard.</li>
                     <li>Click 'Import' and watch your reviews enhance your store's reputation instantly!</li>
                   </ul>
-                  <a href="https://judge.me/import" target="_blank" rel="noopener noreferrer">Import reviews</a>
+                  <a href="https://app.judge.me/import" target="_blank" rel="noopener noreferrer">Import reviews</a>
                 </div>
 
                 <div class="home-page__judge-me-features">
@@ -190,7 +190,7 @@ if ( ! empty( $token ) ):
                     <li>Collect reviews on autopilot via review request emails.</li>
                     <li>Customize review request timings and and priority for which products to collect reviews first.</li>
                   </ul>
-                  <a href="https://judge.me/shop/requests/schedule_reminders" target="_blank" rel="noopener noreferrer">Request timing</a>
+                  <a href="https://app.judge.me/shop/requests/schedule_reminders" target="_blank" rel="noopener noreferrer">Request timing</a>
                 </div>
 
                 <div class="home-page__judge-me-features">
@@ -202,7 +202,7 @@ if ( ! empty( $token ) ):
                     <li>Build your brand with fully customizable review request emails.</li>
                     <li>Create engaging emails with drag & drop editor and various content blocks.</li>
                   </ul>
-                  <a href="https://judge.me/email_templates" target="_blank" rel="noopener noreferrer">Email templates</a>
+                  <a href="https://app.judge.me/email_templates" target="_blank" rel="noopener noreferrer">Email templates</a>
                 </div>
 
                 <div class="home-page__judge-me-features">
@@ -214,7 +214,7 @@ if ( ! empty( $token ) ):
                     <li>Show your reviews in style by setting up themes, colours, text for you Reviews widget.</li>
                     <li>Increase engagement with reviews by showing pictures first, adding thumbs up and social share buttons and much more.</li>
                   </ul>
-                  <a href="https://judge.me/shop/widgets/review-widget" target="_blank" rel="noopener noreferrer">Customize widget</a>
+                  <a href="https://app.judge.me/shop/widgets/review-widget" target="_blank" rel="noopener noreferrer">Customize widget</a>
                 </div>
 
                 <div class="home-page__judge-me-features">
@@ -226,7 +226,7 @@ if ( ! empty( $token ) ):
                     <li>Enhance your homepage with a reviews slider to showcase customer feedback and attract new clients.</li>
                     <li>Automatically display recent 5-star reviews or reviews with pictures, or manually select your favorites to highlight.</li>
                   </ul>
-                  <a href="https://judge.me/shop/widgets/reviews-carousel" target="_blank" rel="noopener noreferrer">Customize widget</a>
+                  <a href="https://app.judge.me/shop/widgets/reviews-carousel" target="_blank" rel="noopener noreferrer">Customize widget</a>
                 </div>
 
                 <div class="home-page__judge-me-features">
@@ -238,7 +238,7 @@ if ( ! empty( $token ) ):
                     <li>Collect more reviews by encouraging customer to leave a review with coupons.</li>
                     <li>Customize every aspect of your coupons, from discount values to usage limits and eligibility.</li>
                   </ul>
-                  <a href="https://judge.me/shop/marketing_and_social/coupons" target="_blank" rel="noopener noreferrer">Enable coupons</a>
+                  <a href="https://app.judge.me/shop/marketing_and_social/coupons" target="_blank" rel="noopener noreferrer">Enable coupons</a>
                 </div>
               </div>
             </div>

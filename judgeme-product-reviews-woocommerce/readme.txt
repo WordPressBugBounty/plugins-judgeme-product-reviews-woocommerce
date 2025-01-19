@@ -110,6 +110,9 @@ From our admin page, please go to Judge.me’s settings page > “Review Request
 
 == Changelog ==
 
+= 1.3.27 =
+* Update plugin to use new app domain
+
 = 1.3.26 =
 * Update plugin to use new domains
 
