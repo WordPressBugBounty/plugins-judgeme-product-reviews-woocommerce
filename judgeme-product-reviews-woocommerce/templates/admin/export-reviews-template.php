@@ -27,7 +27,7 @@ if ( ! empty( $token ) ):
           </div>
         </div>
         <div class="home-page__header-welcome-container">
-          <img class="home-page__jdgm-image" src="<?php echo JGM_PLUGIN_URL.'assets/images/jdgm-logo.png'; ?>"></image>
+          <img class="home-page__jdgm-image" src="<?php echo JGM_PLUGIN_URL.'assets/images/jdgm-logo-2025.png'; ?>"></image>
           <div class="home-page__jdgm-intro-container">
             <h1 class="home-page__title">Welcome to Judge.me Product Reviews!</h1>
             <p class="home-page__jdgm-intro-text">Judge.me powers the product reviews for your WooCommerce store. You can manage your reviews and settings directly in our app.</p>
